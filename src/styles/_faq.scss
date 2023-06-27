@@ -20,7 +20,8 @@
                 position: relative;
 
                 @media (max-width: 767px) {
-                    font-size: 10px;
+                    font-size: 15px;
+                    margin-right: 10px;
                 }
 
                 &::after {
